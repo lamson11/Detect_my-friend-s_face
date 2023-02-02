@@ -35,3 +35,5 @@ Chạy web: python web.py
 # Video
 
 Video hướng dẫn cách chạy: https://youtu.be/TJHFuuIXXyY
+
+Vieo hướng dẫn cách chạy bước 3: https://youtu.be/ObwAs7kD854
