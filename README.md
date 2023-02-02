@@ -31,3 +31,7 @@ Truy cập vào thư mục web_Local_Decte_Face_Friend mới có thể dùng l�
 Chạy local: python NhanDangKhuonMat.py
 
 Chạy web: python web.py
+
+# Video
+
+Video hướng dẫn cách chạy: https://youtu.be/TJHFuuIXXyY
