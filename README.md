@@ -14,11 +14,11 @@ Sau khi giải nén bạn vào file web_Local_Decte_Face_Friend sẽ thấy file
 
 Lưu ý: phải có file này mới chạy được file training.py
 
-# Bước 1: chạy cắt ảnh từ video
+# Bước 1: Chạy cắt ảnh từ video
 
 Gõ lệnh run: python GetImageFromVideo.py
 
-# Bước 2: train ảnh
+# Bước 2: Train ảnh
 
 Gõ lệnh run: python Training.py
 
