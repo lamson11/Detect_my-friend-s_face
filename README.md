@@ -26,11 +26,9 @@ Sau khi chạy xong copy file svc.pkl vào thư mục web_Local_Decte_Face_Frien
 
 # Bước 3: Chạy nhận diện
 
-Truy cập vào thư mục web_Local_Decte_Face_Friend mới có thể dùng lệnh chạy
+Chạy local: python web_Local_Decte_Face_Friend/NhanDangKhuonMat.py
 
-Chạy local: python NhanDangKhuonMat.py
-
-Chạy web: python web.py
+Chạy web: python web_Local_Decte_Face_Friend/main.py
 
 # Video
 
